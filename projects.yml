@@ -4230,6 +4230,12 @@ specviz:
   url: https://github.com/jebberjeb/specviz
   categories: [Spec, Visualization]
   platforms: [clj]
+  
+oz:
+  name: Oz
+  url: https://github.com/metasoarous/oz
+  categories: [Visualization, Data Exploration]
+  platforms: [clj, cljs]
 
 clucie:
   name: Clucie
